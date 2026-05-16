@@ -5,6 +5,7 @@ The main idea is I don't care for homebox's UI.
 I'd like to try out https://ui.shadcn.com/ for UI components.
 
 I'll use https://ui.shadcn.com/docs/installation/vite#edit-tsconfigjson-file to make a template, maybe asking Sierra for color opinions
+https://ui.shadcn.com/create?preset=b1tfN9aF6&template=vite
 
 Will go with Vite -> React + TS for UI and maybe FastAPI with UV for the backend.
 
