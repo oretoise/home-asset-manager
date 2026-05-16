@@ -15,3 +15,9 @@ Not sure if I should get an AI subscription to help. Might be worth it.
 If nothing else, just building something is 1000% better than considering building something.
 
 Check https://www.youtube.com/watch?v=CNsvts6pVzo for suggestions on getting started easily and hooking things up.
+
+TODO:
+
+- Create main layout
+- Start writing tests
+- Add react router
