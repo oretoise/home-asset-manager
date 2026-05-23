@@ -23,8 +23,8 @@
     "ignoreDeprecations": "6.0",
     "baseUrl": ".",
     "paths": {
-      "@/*": ["ui/src/*"]
+      "@/*": ["src/*"]
     }
   },
-  "include": ["ui/src"],
+  "include": ["src"],
 }
