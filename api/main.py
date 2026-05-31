@@ -6,3 +6,13 @@ app = FastAPI()
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
+
+
+@app.get("/test")
+def read_test():
+    return {"test"}
+
+
+@app.post("/")
+def update_root():
+    return {"Post": "Received"}
