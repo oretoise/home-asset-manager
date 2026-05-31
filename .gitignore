@@ -3,3 +3,5 @@
 **/__pycache__
 ui/dist
 **/.tanstack
+mise.local.toml
+mise.*.local.toml
